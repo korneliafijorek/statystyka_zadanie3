@@ -1,8 +1,6 @@
-"""
-Zadanie 3. ze statystyki - zadanie 2. w wersji z Github'em
-Copyright (C) 2019 by Kornelia Fijorek.
-"""
-
+#Zadanie 3 - Zadanie 2 w wersji z Github'em#
+#Zadanie drugie ze satystyki#
+#Kornelia Fijorek 167865#
 #https://realpython.com/python-histograms/
 # Importujemy potrzebne biblioteki #
 import numpy as np
@@ -13,7 +11,7 @@ from numpy import array
 import matplotlib.pyplot as plt
 import matplotlib.mlab as mlab
 
-# Deklarujemy zmienne - możemy tutaj zmieniać ich wartości #2
+# Deklarujemy zmienne - możemy tutaj zmieniać ich wartości #
 r = 1000
 # Rozkład Normalny:
 mu_n = 0
@@ -30,13 +28,8 @@ s = np.random.normal(mu_n, sigma_n, n)
 #zaburzający wektor
 w = np.random.gamma(shape, scale, int(size))
 
-"""
-zmieniamy format, żeby możliwe było dodawanie poszczególnych elmentów 
-na koniec listy jako nowe elementy 
-"""
 new_s = list(s)
 t = list(w)
-
 
 print("Ile elementów chcesz dodać? \n")
 x = input()
