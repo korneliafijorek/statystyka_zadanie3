@@ -1,7 +1,8 @@
 #Zadanie 3 - Zadanie 2 w wersji z Github'em#
-#Zadanie drugie ze satystyki#
 #Kornelia Fijorek 167865#
+
 #https://realpython.com/python-histograms/
+
 # Importujemy potrzebne biblioteki #
 import numpy as np
 from scipy import stats as st
