@@ -1,5 +1,4 @@
-#Zadanie 3 - Zadanie 2 w wersji z Github'em#
-#Zadanie drugie ze satystyki#
+#Zadanie 3. ze statystki - Zadanie 2. w wersji z Github'em#
 #Kornelia Fijorek 167865#
 #https://realpython.com/python-histograms/
 # Importujemy potrzebne biblioteki #
